@@ -21,7 +21,7 @@ https://systems.jhu.edu/
 
 
 <b>DATA SOURCES:</b>
-This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g., WHO, ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
+This list includes a complete list of all sources ever used in the data set, since January 21, 2010. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
   - World Health Organization (WHO): https://www.who.int/
@@ -36,6 +36,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
+  - Alaska Department of Health and Social Services: https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/
   - Washington State Department of Health: https://www.doh.wa.gov/emergencies/coronavirus
   - Maryland Department of Health: https://coronavirus.maryland.gov/
   - New York State Department of Health: https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data
@@ -56,7 +57,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Indiana State Department of Health: https://hub.mph.in.gov/dataset?q=COVID
   - Connecticut Department of Public Health: https://data.ct.gov/stories/s/COVID-19-data/wa3g-tfvc/
   - Ohio Department of Health: https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home
-  - Oregon Office of Emergency Management: https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de
+  - Oregon Health Authority: https://govstatus.egov.com/OR-OHA-COVID-19
+  - Oregon Health Authority (Weekends): https://www.oregon.gov/oha/erd/pages/covid-19-news.aspx
   - Tennessee Department of Health: https://www.tn.gov/health/cedep/ncov.html
   - Rhode Island Department of Health: https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/
   - Wisconsin Department of Health Services: https://www.dhs.wisconsin.gov/covid-19/data.htm
@@ -123,6 +125,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - California: Humboldt County: https://humboldtgov.org/
   - California: Madera County: https://www.maderacounty.com/government/public-health/corona-virus-covid-19/covid-revised
   - California: Marin County Health & Human Services: https://coronavirus.marinhhs.org/
+  - California: Mendocino County: https://www.mendocinocounty.org/community/novel-coronavirus/covid-19-case-data
   - California: Orange County Health Care Agency: https://occovid19.ochealthinfo.com/coronavirus-in-oc
   - California: Placer County: https://www.placer.ca.gov/coronavirus
   - California: Riverside County: https://www.rivcoph.org/coronavirus
@@ -152,6 +155,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Vermont Department of Health: https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont
   - Kansas: Reno County Health Department: https://experience.arcgis.com/experience/9a7d44773e4c4a48b3e09e4d8673961b/page/page_18/
   - Kansas: Kansas Department Of Health And Environment: https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas
+  - Kansas: Douglas County Coronavirus Response and Recovery Hub: https://coronavirus-response-dgco.hub.arcgis.com/
+  - Kansas: Finney County COVID-19 Resource Hub: https://finney-county-coronavirus-response-finneycountygis.hub.arcgis.com/
+  - Kansas: Riley County Corona Virus Response: https://coronavirus-response-rcitgis.hub.arcgis.com/
 
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
@@ -187,12 +193,14 @@ This list includes a complete list of all sources ever used in the data set, sin
   - COVID Live (Australia): https://www.covidlive.com.au/
   - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
   - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+  - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
   - Dati COVID-19 Italia (Italy): https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni
   - Czechia Ministry of Health: https://onemocneni-aktualne.mzcr.cz/covid-19
-  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://github.com/opencovid19-fr/data/blob/master/dist/chiffres-cles.json
+  - French Government: https://dashboard.covid19.data.gouv.fr/ and https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/
   - OpenCOVID19 France: https://github.com/opencovid19-fr
   - Palestine (West Bank and Gaza): https://corona.ps/details
   - Israel: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
+  - Israel: https://datadashboard.health.gov.il/COVID-19/general
   - National Institute of Health of Kosovo: https://corona-ks.info/?lang=en and https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
   - Berliner Morgenpost (Germany): https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
   - rtve (Spain): https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
@@ -210,12 +218,18 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Ukraine: https://covid19.rnbo.gov.ua/
   - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
   - Government of India: https://www.mygov.in/covid-19
+  - Lithuania: https://osp.maps.arcgis.com/apps/MapSeries/index.html?appid=c6bc9659a00449239eb3bde062d23caa
   - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - The UK Government: https://coronavirus.data.gov.uk/#category=nations&map=rate
   - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
   - Netherlands National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - Iceland Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
   - Luxembourg Government: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+  - Afghanistan: http://covid.moph-dw.org/#/ and http://www.afghanistantimes.af/
+  - Kazakhstan: https://www.coronavirus2020.kz/
+  - Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/EN-69532/general-coronavirus-table.html
+  - Slovakia Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - Thailand Ministry of Public Health: https://ddc.moph.go.th/viralpneumonia/eng/index.php and https://covid19.ddc.moph.go.th/en
     
 
 
